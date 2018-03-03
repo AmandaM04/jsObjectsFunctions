@@ -1,0 +1,17 @@
+/*if it is a favorite, make green. If fasle, make red*/
+
+.pets {
+    border: 2px, solid, black;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.isFavorite {
+    background-color: green;
+}
+
+.isNotFavorite {
+    background-color: red;
+}
